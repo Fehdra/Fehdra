@@ -6,5 +6,5 @@
 🤔 Seeking guidance and assistance to elevate my Valheim Mods game.
 💬 Curious about my experience trying out GitHub Copilot for the first time? Ask away!
 📫 Reach out to me on Discord user Corrupter#2236. https://discord.gg/Xh9Uq8w34q
-⚡ Fun fact: I'm passionate about PC gaming.
+⚡ Fun fact: I'm passionate about PC gaming
 
