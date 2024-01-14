@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Fehdra/Fehdra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 🔭 Currently immersed in the world of Valheim Mods, crafting digital adventures.
 🌱 Learning the intricate dance of C# and Python to enhance my coding prowess.
 👯 Eager to collaborate on exciting Valheim Mods projects, let's create something epic together!
@@ -12,4 +7,4 @@ Here are some ideas to get you started:
 💬 Curious about my experience trying out GitHub Copilot for the first time? Ask away!
 📫 Reach out to me on Discord user Corrupter#2236. https://discord.gg/Xh9Uq8w34q
 ⚡ Fun fact: I'm passionate about PC gaming
--->
+
